@@ -1,5 +1,7 @@
 # BigData-assignment_3
 
+생성형 ai 사용함.
+
 ## Dataset
 
 Kaggle Titanic Dataset
